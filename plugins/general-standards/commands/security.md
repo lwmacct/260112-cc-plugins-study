@@ -1,3 +1,9 @@
+---
+name: security
+description: Review code for security vulnerabilities and secure coding best practices
+when_to_use: Use when checking code for security issues and OWASP Top 10 vulnerabilities
+---
+
 Review code for security vulnerabilities and follow secure coding best practices:
 
 **Security Checks:**

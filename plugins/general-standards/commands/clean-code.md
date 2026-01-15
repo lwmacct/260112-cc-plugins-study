@@ -1,3 +1,9 @@
+---
+name: clean-code
+description: Review code for clean code principles, readability, and maintainability
+when_to_use: Use when reviewing code for adherence to clean code principles and SOLID design
+---
+
 Review code for clean code principles, readability, and maintainability:
 
 **Clean Code Principles (based on Robert C. Martin's Clean Code):**

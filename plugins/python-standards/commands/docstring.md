@@ -1,3 +1,9 @@
+---
+name: docstring
+description: Check Python docstrings for completeness and PEP 257 compliance
+when_to_use: Use when reviewing Python code documentation and docstring quality
+---
+
 Check Python docstrings for completeness and style (PEP 257):
 
 **Docstring Checks:**

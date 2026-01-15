@@ -1,3 +1,9 @@
+---
+name: review
+description: Review Go code for official idioms and best practices
+when_to_use: Use when reviewing Go code for adherence to Go best practices
+---
+
 Review the selected Go code according to Go official idioms and best practices:
 
 **Check for:**

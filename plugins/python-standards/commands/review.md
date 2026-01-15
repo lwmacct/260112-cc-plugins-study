@@ -1,3 +1,9 @@
+---
+name: review
+description: Review Python code for PEP 8 compliance and best practices
+when_to_use: Use when reviewing Python code for style and standards compliance
+---
+
 Review the selected Python code according to PEP 8 and Python best practices:
 
 **Check for:**

@@ -1,3 +1,9 @@
+---
+name: format
+description: Check Go code formatting according to Go conventions
+when_to_use: Use when reviewing Go code for proper formatting and style
+---
+
 Check and suggest formatting improvements for Go code according to Go conventions:
 
 **Formatting Checks:**

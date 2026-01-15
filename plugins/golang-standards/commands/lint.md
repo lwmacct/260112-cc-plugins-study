@@ -1,3 +1,9 @@
+---
+name: lint
+description: Check Go code for common linting issues and style problems
+when_to_use: Use when performing static analysis on Go code
+---
+
 Check the Go code for common linting issues and style problems:
 
 **Static Analysis Checks:**

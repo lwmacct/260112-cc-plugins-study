@@ -1,3 +1,9 @@
+---
+name: type-check
+description: Check Python code for type hint completeness and correctness
+when_to_use: Use when reviewing Python code for proper type annotations
+---
+
 Check Python code for type hint completeness and correctness:
 
 **Type Hint Checks:**
